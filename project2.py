@@ -1,5 +1,3 @@
-# CS 177 project2.py
-# Trey Rosenfeldt 33361777
 #make different fucntions that do payment history, amount of funds owed, length of credit history,
 # and annual income. see if they should be granted a loan
 
